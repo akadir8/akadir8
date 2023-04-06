@@ -1,5 +1,5 @@
 ## Hi, I'm Abdulkadir Biçki! ✌
-º📱 I'm currently developing mobile apps with Flutter!<br><br>º I have experience in:<br>     <br>     • HTML, CSS, Taiwind CSS, JavaScript, Flutter, Python and Php<br>   <br>   <br>º How to reach me:<br><br>      <br><br>        <br>
+º📱 I'm currently developing mobile apps with Flutter and web apps with React!<br><br>º I have experience in:<br>     <br>     • HTML, CSS, Taiwind CSS, JavaScript, React , Flutter, Python and Php<br>   <br>   <br>º How to reach me:<br><br>      <br><br>        <br>
 
 
 ## 🌐 Socials:
