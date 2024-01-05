@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulkadir Biçki</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akadir8&label=Profile%20views&color=0e75b6&style=flat" alt="akadir8" /> </p>
 
 
 - 📝 I regularly write articles on [https://medium.com/@bickiabdulkadir12](https://medium.com/@bickiabdulkadir12)
